@@ -13,9 +13,9 @@
 // limitations under the License.
 
 // Replace the strings below with your own project & model info
-const project = 'YOUR_PROJECT_NAME';
+const project = 'WildFire Extension';
 const region = 'YOUR_PROJECT_REGION';
-const automl_model = 'YOUR_AUTOML_MODEL_ID';
+const automl_model = 'ICN2628295138448696986D';
 
 const sizeOf = require('image-size');
 const fs = require('fs');
